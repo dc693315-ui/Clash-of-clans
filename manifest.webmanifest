@@ -1,0 +1,9 @@
+{
+  "name": "ClashCoach",
+  "short_name": "ClashCoach",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#10151b",
+  "theme_color": "#e9a82d",
+  "icons": []
+}
